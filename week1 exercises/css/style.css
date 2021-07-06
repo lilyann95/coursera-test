@@ -1,0 +1,87 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	padding: 0px 150px 0px 150px;
+}
+.navbar-nav li {
+	list-style-type: none;
+	padding-left:30px;
+  	padding-right:10px;
+  	padding-bottom: 0px;
+}
+
+.firstnav {
+	background-color: #D03636;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	padding-top: 15px;
+
+}
+.firstlist {
+	padding-left:4px;
+  	padding-right:10px;
+}
+h3 {
+	color: #FEFCFC;
+	text-decoration: underline;
+	font-family: Cursive;
+}
+.aboutme {
+	padding: 0px 40px 0px 10px;
+}
+.firstsection {
+	background-color: #931717;
+	color: #FEFCFC;
+	font-family: Cursive;
+	top: 0;
+	float: left;
+	clear: none;
+	padding-left: 10px;
+}
+.secondsection {
+	background-color: #2F82EC;
+	float: left;
+	clear: none;
+}
+.secondnavlist {
+	padding-top: 15px;
+}
+.Facebook {
+	color: #0A428A;
+}
+.Github {
+	color: #ED7CBA;
+}
+.Twitter {
+	color: #BB2678;
+}
+.LinkedIn {
+	color: #215B83;
+}
+.Send {
+	color: #D35627;
+}
+.Call {
+	color: #38C14F;
+}
+ol >li {
+	padding-bottom: 10px;
+}
+.footer {
+	background-color: #080707;
+	color: #FEFCFC;
+}
+#copy {
+	float: right;
+	
+}
+.port {
+	/*float: left;*/
+	clear: right;
+
+}
+#create {
+	width:  100%;
+	text-align: right;
+}
