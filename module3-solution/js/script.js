@@ -31,3 +31,5 @@
 //   counter++;
 // }
 // console.log(counter);
+ let text = "hi there";
+ console.log(text);
