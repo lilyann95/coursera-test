@@ -1,0 +1,25 @@
+header {
+  background-color: #B7B4B4;
+}
+h1 {
+  color: #FFFFFF;
+  text-align: center;
+  text-transform: uppercase;
+}
+a {
+  color: #060606;
+  background-color: #C6C5C4;
+  font-size: 1.25em;
+}
+.left a {
+ 
+  display: none;
+}
+h2 {
+  text-transform: uppercase;
+  color: #314FD8;
+}
+.right {
+  background-color: #736F6F;
+  font-size: 1.5em;
+}
